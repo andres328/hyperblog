@@ -1,9 +1,6 @@
 body
 {
-<<<<<<< HEAD
-=======
   background: black;
->>>>>>> header
   color: #333;
   text-align: left;
   font-family: arial;
@@ -47,4 +44,11 @@ body
 #container h1
 {
   font-size: 20px;
+}
+#footer
+{
+  color: white;
+  background: gray;
+  padding: 12px;
+  text-align: center;
 }
