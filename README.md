@@ -9,5 +9,7 @@ Un bloc increíble para el curso de git y git hub de platzi
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Las personalidades multilpes de Freddy
+* Creado por el increible platzi Team
+* probando a ver que 
 
-Y como un amable recordatorio **Este readme es un chiste** diseñado para el ejemplo. Si llegas aca NO TE LO TOMES ENSERIO y **mejor ve al curso** https://platzi.com/clases/1557-git-github/ 
+Y como un amable recordatorio **Este readme es un chiste** diseñado para el ejemplo. Si llegas aca NO TE LO TOMES ENSERIO y **mejor ve al curso** https://platzi.com/clases/1557-git-github/
